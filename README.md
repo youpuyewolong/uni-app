@@ -4,9 +4,8 @@
 wwwwwwwwwwwww
 开发者通过编写 `Vue.js` 代码，`uni-app` 将其编译到 iOS、Android、微信小程序等多个平台，保证其正确运行并达到优秀体验。
 
-
-## 文档888888888888888
-
+## 文档33355555555888888883333333333
+>>>>>>> 5b395adb1a67e54853a6155e69e05df333b7e472
 
 [uni-app 文档](https://uniapp.dcloud.io)
 
